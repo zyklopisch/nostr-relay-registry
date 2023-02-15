@@ -74,6 +74,7 @@ export const relays = [
   'wss://nostr.yuv.al',
   'wss://nostr.beta3.dev',
   'wss://at.nostrworks.com'
+  'wss://bitcoinmaximalists.online'
 ]
 
 shuffle(relays)
